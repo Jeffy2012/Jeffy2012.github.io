@@ -1,0 +1,18 @@
+@import "normalize";
+@import "compass";
+
+p{
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+#sara{
+  max-width: 320px;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0 auto;
+  background: #EEE;
+  h2{
+    margin: 0;
+    margin-bottom: 10px;
+  }
+}
